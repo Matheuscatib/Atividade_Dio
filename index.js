@@ -1,6 +1,6 @@
 let nomeHeroi = "Dark";
-let xpHeroi = 7200;
-let nivel = "8009";
+let xpHeroi = 45600;
+let nivel = "";
 
 // Estrutura de decisão
 if (xpHeroi < 1000) {
